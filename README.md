@@ -1,9 +1,9 @@
 ### Hi there, I'm Penny Williams
 ## I am a person who loves the outdoors.
 
-- ?? I am a hard working, adventurous, and passionate individual. ??
-- ?? I like to ride an atv or side by side, and I also have a strong sense of adventure. I never back down from any challenge.
-- ? Fun fact: I am a thrill seeker who loves the outdoors.
+-  I am a hard working, adventurous, and passionate individual. 
+-  I like to ride an atv or side by side, and I also have a strong sense of adventure. I never back down from any challenge.
+-  Fun fact: I am a thrill seeker who loves the outdoors.
 
 
 ### Connect with me:
