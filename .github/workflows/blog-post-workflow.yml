@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          feed_list: "https://www.tumblr.com/blog/pennywilliams/rss,https://www.youtube.com/feeds/videos.xml?channel_id=UCdr14c1LRgTzlFlO8MMPJmw"
+          feed_list: "https://www.tumblr.com/blog/pennywilliams/rss,https://www.youtube.com/feeds/videos.xml?channel_id=UCdr14c1LRgTzlFlO8MMPJmw,https://pwilliams-atv-outdoor-adventures.blogspot.com/feeds/posts/default?alt=rss"
