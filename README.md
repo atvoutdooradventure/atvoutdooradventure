@@ -34,3 +34,4 @@
 [twitter]: https://twitter.com/williamspenny01 
 [youtube]: https://www.youtube.com/channel/UCdr14c1LRgTzlFlO8MMPJmw
 [instagram]: https://www.instagram.com/pwilliamsadventure/
+[linkedin]: https://ca.linkedin.com/in/theministerofcapitalism
