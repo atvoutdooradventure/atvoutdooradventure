@@ -23,7 +23,7 @@
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ATV Snowblower](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/atv-snowblower.html)
+- [The Best plow for ATV Riders - Is an ATV Vee Plow Worth It?](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/the-best-plow-for-atv-riders-is-atv-vee.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
