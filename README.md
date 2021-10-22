@@ -23,6 +23,8 @@
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What to Consider With Atv Garden Plows](https://www.youtube.com/watch?v=yGZj368z1cM)
+- [What to Consider With Atv Garden Plows](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/what-to-consider-with-atv-garden-plows.html)
 - [ATV Vee Plow - Is it Worth It? My Honest Experience](https://www.youtube.com/watch?v=pHwoCTGOyog)
 - [The Best plow for ATV Riders - Is an ATV Vee Plow Worth It?](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/the-best-plow-for-atv-riders-is-atv-vee.html)
 <!-- BLOG-POST-LIST:END -->
