@@ -23,6 +23,7 @@
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snow Blowing Tips That Make Snow Removal Quick and Easy](https://www.youtube.com/watch?v=zIqBnLS3pf4)
 - [Snow Blowing Tips That Make Snow Removal Quick and Easy](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/snow-blowing-tips-that-make-snow.html)
 - [What to Consider With Atv Garden Plows](https://www.youtube.com/watch?v=yGZj368z1cM)
 - [What to Consider With Atv Garden Plows](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/what-to-consider-with-atv-garden-plows.html)
