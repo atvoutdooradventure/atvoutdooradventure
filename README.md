@@ -23,6 +23,8 @@
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ATV Boom Spayers - The Basics](https://www.youtube.com/watch?v=WEo8hyVjXkY)
+- [ATV Boom Sprayers: An Overview](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/11/atv-boom-sprayers-overview.html)
 - [Snow Blowing Tips That Make Snow Removal Quick and Easy](https://www.youtube.com/watch?v=zIqBnLS3pf4)
 - [Snow Blowing Tips That Make Snow Removal Quick and Easy](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/snow-blowing-tips-that-make-snow.html)
 - [What to Consider With Atv Garden Plows](https://www.youtube.com/watch?v=yGZj368z1cM)
