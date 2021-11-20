@@ -23,6 +23,8 @@
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of the Best ATV Helmets - a Review](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/11/one-of-best-atv-helmets-review.html)
+- [THE BEST ATV HELMETS TO KEEP YOU SAFE &lpar;5 Comfortable Picks&rpar;](https://www.youtube.com/watch?v=cnwCKnmVyP0)
 - [ATV Boom Spayers - The Basics](https://www.youtube.com/watch?v=WEo8hyVjXkY)
 - [ATV Boom Sprayers: An Overview](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/11/atv-boom-sprayers-overview.html)
 - [Snow Blowing Tips That Make Snow Removal Quick and Easy](https://www.youtube.com/watch?v=zIqBnLS3pf4)
