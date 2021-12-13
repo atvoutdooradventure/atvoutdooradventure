@@ -23,6 +23,7 @@
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wondering where to buy smelling salts? I review the strongest smelling salts available!](https://www.youtube.com/watch?v=7a_RB_bjICQ)
 - [One of the Best ATV Helmets - a Review](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/11/one-of-best-atv-helmets-review.html)
 - [THE BEST ATV HELMETS TO KEEP YOU SAFE &lpar;5 Comfortable Picks&rpar;](https://www.youtube.com/watch?v=cnwCKnmVyP0)
 - [ATV Boom Spayers - The Basics](https://www.youtube.com/watch?v=WEo8hyVjXkY)
@@ -32,7 +33,6 @@
 - [What to Consider With Atv Garden Plows](https://www.youtube.com/watch?v=yGZj368z1cM)
 - [What to Consider With Atv Garden Plows](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/what-to-consider-with-atv-garden-plows.html)
 - [ATV Vee Plow - Is it Worth It? My Honest Experience](https://www.youtube.com/watch?v=pHwoCTGOyog)
-- [The Best plow for ATV Riders - Is an ATV Vee Plow Worth It?](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/the-best-plow-for-atv-riders-is-atv-vee.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
