@@ -23,6 +23,8 @@
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Review of the best pocket hole jigs](https://www.youtube.com/watch?v=5oC_SkpDrP8)
+- [Looking for the Best Pocket Hole Jig?](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/12/looking-for-best-pocket-hole-jig.html)
 - [Curious As to Where to Buy Smelling Salts? I Review the Strongest Smelling Salts](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/12/curious-as-to-where-to-buy-smelling.html)
 - [Wondering where to buy smelling salts? I review the strongest smelling salts available!](https://www.youtube.com/watch?v=7a_RB_bjICQ)
 - [One of the Best ATV Helmets - a Review](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/11/one-of-best-atv-helmets-review.html)
@@ -31,8 +33,6 @@
 - [ATV Boom Sprayers: An Overview](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/11/atv-boom-sprayers-overview.html)
 - [Snow Blowing Tips That Make Snow Removal Quick and Easy](https://www.youtube.com/watch?v=zIqBnLS3pf4)
 - [Snow Blowing Tips That Make Snow Removal Quick and Easy](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/snow-blowing-tips-that-make-snow.html)
-- [What to Consider With Atv Garden Plows](https://www.youtube.com/watch?v=yGZj368z1cM)
-- [What to Consider With Atv Garden Plows](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/what-to-consider-with-atv-garden-plows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
