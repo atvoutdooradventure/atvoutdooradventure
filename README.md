@@ -23,6 +23,8 @@
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The basics of choosing a baby safe paint](https://www.youtube.com/watch?v=hmspS4q_KDg)
+- [Can You Paint a Crib? Baby Safety Guidelines](https://pwilliams-atv-outdoor-adventures.blogspot.com/2022/01/can-you-paint-crib-baby-safety.html)
 - [A Review of the best pocket hole jigs](https://www.youtube.com/watch?v=5oC_SkpDrP8)
 - [Looking for the Best Pocket Hole Jig?](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/12/looking-for-best-pocket-hole-jig.html)
 - [Curious As to Where to Buy Smelling Salts? I Review the Strongest Smelling Salts](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/12/curious-as-to-where-to-buy-smelling.html)
@@ -31,8 +33,6 @@
 - [THE BEST ATV HELMETS TO KEEP YOU SAFE &lpar;5 Comfortable Picks&rpar;](https://www.youtube.com/watch?v=cnwCKnmVyP0)
 - [ATV Boom Spayers - The Basics](https://www.youtube.com/watch?v=WEo8hyVjXkY)
 - [ATV Boom Sprayers: An Overview](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/11/atv-boom-sprayers-overview.html)
-- [Snow Blowing Tips That Make Snow Removal Quick and Easy](https://www.youtube.com/watch?v=zIqBnLS3pf4)
-- [Snow Blowing Tips That Make Snow Removal Quick and Easy](https://pwilliams-atv-outdoor-adventures.blogspot.com/2021/10/snow-blowing-tips-that-make-snow.html)
 <!-- BLOG-POST-LIST:END -->
 
 ?? [more blog posts...](https://theministerofcapitalism.com/blog/)
